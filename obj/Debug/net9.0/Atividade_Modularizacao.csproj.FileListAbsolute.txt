@@ -1,0 +1,15 @@
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\bin\Debug\net9.0\Atividade_Modularizacao.exe
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\bin\Debug\net9.0\Atividade_Modularizacao.deps.json
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\bin\Debug\net9.0\Atividade_Modularizacao.runtimeconfig.json
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\bin\Debug\net9.0\Atividade_Modularizacao.dll
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\bin\Debug\net9.0\Atividade_Modularizacao.pdb
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.AssemblyInfoInputs.cache
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.AssemblyInfo.cs
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.csproj.CoreCompileInputs.cache
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.sourcelink.json
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.dll
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\refint\Atividade_Modularizacao.dll
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.pdb
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\Atividade_Modularizacao.genruntimeconfig.cache
+C:\Users\1663209\Documents\Bernardo\13_05\Atividade_Modularizacao\obj\Debug\net9.0\ref\Atividade_Modularizacao.dll
